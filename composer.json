@@ -1,0 +1,21 @@
+{
+    "name": "agilecms/util",
+    "description": "php util multi-library",
+    "type": "library",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "djwb1982",
+            "email": "djwb1982@163.com"
+        }
+    ],
+    "require": {
+    	"php": ">=5.5"
+    },
+    "autoload": {
+    	"psr-4": {
+    		"Agile\\Utils\\": "src/Agile/Utils"
+			}
+    }
+}
