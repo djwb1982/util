@@ -1,10 +1,7 @@
 <?php
 /**
- * DateTimeTool
+ * DateTimeTool 
  * 用于处理日期、时间相关的方法
- *
- * Date: 2017-6-25
- * Time: 19:29
  */
 namespace Agile\Utils;
 class DateTimeTool

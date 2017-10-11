@@ -1,9 +1,7 @@
 <?php
 /**
+ * ArrayTool 
  * 数组工具类
- * User: agile
- * Date: 2017-5-25
- * Time: 9:39
  */
 namespace Agile\Utils;
 class ArrayTool {

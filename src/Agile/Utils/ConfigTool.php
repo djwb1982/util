@@ -1,12 +1,9 @@
 <?php
-namespace Agile\Utils;
 /**
- * Config
+ * Config 
  * 配置工具类，配置可以定义为多维数组
- *
- * @author Dong Nan <hidongnan@gmail.com>
- * @date 2015-8-28
  */
+namespace Agile\Utils;
 class ConfigTool
 {
     static private $config = [];

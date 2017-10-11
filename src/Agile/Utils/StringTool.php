@@ -1,10 +1,7 @@
 <?php
 /**
- * StringTool
+ * StringTool 
  * 用于处理字符串的方法
- *
- * Date: 2017-6-25
- * Time: 19:29
  */
 namespace Agile\Utils;
 class StringTool
